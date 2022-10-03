@@ -1,4 +1,4 @@
-# First-REST-API-
+# REST API with Spring Boot and JPA
 The api is created using Java and Spring-boot and tested with Postman 
 
 ## A summary of what is used in the project
